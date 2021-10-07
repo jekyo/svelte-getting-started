@@ -1,5 +1,7 @@
 # Tutorial: Deploying a basic Svelte app on Jekyo
 
+Demo app [here](https://svelte-demo.jekyo.app/)
+
 ### Prerequisites
 
 Make sure you have [NodeJS](https://nodejs.org/en/download/), [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm) and [git](https://github.com/git-guides/install-git) installed.
